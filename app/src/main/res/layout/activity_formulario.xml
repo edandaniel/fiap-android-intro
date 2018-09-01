@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".FormActivity">
+
+    <TextView
+        style="@style/mainTitle"
+        android:text="@string/label_title" />
+
+    <TextView
+        style="@style/label"
+        android:text="@string/label_weight" />
+
+    <EditText
+        style="@style/input"
+        android:hint="@string/hint_weight"/>
+
+    <TextView
+        style="@style/label"
+        android:text="@string/label_height" />
+
+    <EditText
+        style="@style/input"
+        android:hint="@string/hint_height" />
+
+    <Button
+        style="@style/button"
+        android:text="@string/button_calculate" />
+
+    <Button
+        style="@style/button"
+        android:text="@string/label_clear" />
+</LinearLayout>
