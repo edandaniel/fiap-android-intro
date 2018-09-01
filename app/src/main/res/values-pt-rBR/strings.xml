@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_title">Calculator Topzera!</string>
+    <string name="label_weight">Seu peso:</string>
+    <string name="hint_weight">em arrobas e.g. 4.5</string>
+    <string name="label_height">Sua Altura</string>
+    <string name="hint_height">em centimetros por favor e.g. 173</string>
+    <string name="button_calculate">Calcularr</string>
+    <string name="label_clear">Limparr</string>
+    <string name="label_result_title">Seu IMC é:</string>
+    <string name="label_footer">Desenvolvido por EdanDaniel</string>
+</resources>

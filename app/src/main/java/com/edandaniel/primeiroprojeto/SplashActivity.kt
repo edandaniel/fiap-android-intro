@@ -16,7 +16,7 @@ class SplashActivity : AppCompatActivity() {
     private fun load() {
         Handler().postDelayed({
                 callnextScreen()
-        }, 2001L)
+        }, 201L)
     }
 
     private fun callnextScreen() {

@@ -17,22 +17,26 @@
         android:text="@string/label_weight" />
 
     <EditText
+        android:id="@+id/inputWeight"
         style="@style/input"
-        android:hint="@string/hint_weight"/>
+        android:hint="@string/hint_weight" />
 
     <TextView
         style="@style/label"
         android:text="@string/label_height" />
 
     <EditText
+        android:id="@+id/inputHeight"
         style="@style/input"
         android:hint="@string/hint_height" />
 
     <Button
+        android:id="@+id/btCalculate"
         style="@style/button"
         android:text="@string/button_calculate" />
 
     <Button
+        android:id="@+id/btClear"
         style="@style/button"
         android:text="@string/label_clear" />
 </LinearLayout>

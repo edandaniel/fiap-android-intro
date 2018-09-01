@@ -1,10 +1,12 @@
 <resources>
-    <string name="app_name">PrimeiroProjeto</string>
-    <string name="label_title">Calculator Topzera!</string>
-    <string name="label_weight">Seu peso:</string>
-    <string name="hint_weight">em arrobas e.g. 4.5</string>
-    <string name="label_height">Sua Altura</string>
-    <string name="hint_height">em centimetros por favor e.g. 173</string>
-    <string name="button_calculate">Calcularr</string>
-    <string name="label_clear">Limparr</string>
+    <string name="app_name" translatable="false">PrimeiroProjeto</string>
+    <string name="label_title">Calculator Aligator!</string>
+    <string name="label_weight">Your Weight</string>
+    <string name="hint_weight">in pounds</string>
+    <string name="label_height">Your Height</string>
+    <string name="hint_height">in feet\" in\'</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="label_clear">Clear</string>
+    <string name="label_result_title">Your BMI is:</string>
+    <string name="label_footer">Developed by EdanDaniel</string>
 </resources>
